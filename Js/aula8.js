@@ -42,3 +42,4 @@ function alertaHello(){
 
 /*Chamar sem precisar de nada> */
 alertaHello();  
+
