@@ -25,5 +25,5 @@ function evento(){
 */
     function evento1    ()  {
     alert   (   "Acionou um evento de clique! ondbclick"    )
-    document.body.style.backgroundColor     =    "green "; s2
+    document.body.style.backgroundColor     =    "green ";
     }
