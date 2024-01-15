@@ -25,5 +25,24 @@ function evento(){
 */
     function evento1    ()  {
     alert   (   "Acionou um evento de clique! ondbclick"    )
-    document.body.style.backgroundColor     =    "green ";
+    document.body.style.backgroundColor     =    "green ";                                      
     }
+
+    function viraVermelho(){
+        let div = document.getElementById("teste");
+        div.style.backgroundColor = "red";
+    }
+
+    function viraAzul(){
+        let div1 = document.getElementById("teste");
+        div1.style.backgroundColor = "blue";
+    }
+    /* vai aparecer varias mensagens se o mouse estiver por cima.
+
+     function adicionaTexto(){
+        let p = document.getElementById("texto");
+        p.append('o mouse moveu ')
+    } */
+ function limpaTexto(){
+    document.getElementById("campoTexto").value = "";
+ }
