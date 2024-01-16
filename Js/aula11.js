@@ -17,5 +17,3 @@ e assim por diante. */
 const lista = ["arroz", "feijão",  "macarrão",  "leite", "pó"];
 //objeto
 const lista = {nome:"Fernando", sobrenome:"Emanoel",    idade:30};
-
-
