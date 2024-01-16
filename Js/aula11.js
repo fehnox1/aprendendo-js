@@ -16,4 +16,4 @@ e assim por diante. */
 //array
 const lista = ["arroz", "feijão",  "macarrão",  "leite", "pó"];
 //objeto
-const lista = {nome:"Fernando", sobrenome:"Emanoel",    idade:30};
+const lista1 = {nome:"Fernando", sobrenome:"Emanoel",    idade:30};
