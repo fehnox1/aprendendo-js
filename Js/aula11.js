@@ -10,4 +10,12 @@ Ex: const lista = ["arroz", "feijão",   "Macarrão", "leite"];
 a lista [0] (lista na posição 0) vai conter o valor "arroz".
 a lista [1] (lista na posição 1) vai conter o valor "feijao".
 
-e aassim por diante.
+a matriz sempre começa em 0, COMEÇANDO PELO ARROZ, POR EXEMPLO.
+e aassim por diante. */
+
+//array
+const lista = ["arroz", "feijão",  "macarrão",  "leite", "pó"];
+//objeto
+const lista = {nome:"Fernando", sobrenome:"Emanoel",    idade:30};
+
+
