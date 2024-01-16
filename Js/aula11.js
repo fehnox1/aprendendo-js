@@ -11,7 +11,7 @@ a lista [0] (lista na posição 0) vai conter o valor "arroz".
 a lista [1] (lista na posição 1) vai conter o valor "feijao".
 
 a matriz sempre começa em 0, COMEÇANDO PELO ARROZ, POR EXEMPLO.
-e aassim por diante. */
+e assim por diante. */
 
 //array
 const lista = ["arroz", "feijão",  "macarrão",  "leite", "pó"];
