@@ -23,3 +23,24 @@ if (hora < 12){
 
     alert("Boa noite!");
 }
+
+
+function verificar() {
+         let nome = document.getElementById("nome").value;
+ 
+         if (nome =="" || nome == null){
+    let p = document.getElementById("teste");
+   p.innerHTML = "O Campo não pode está vazio";
+   p.style.color = "red";
+         }  else {
+
+
+            let p = document.getElementById("teste");
+            p.innerHTML = "Tudo certo!";
+            p.style.color = "Blue";
+            
+         }
+
+
+}
+
